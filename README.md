@@ -31,6 +31,8 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" height="60px"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226770.png" height="60px"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/731/731985.png" height="60px"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="60px"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" height="60px"/> </a>
 </p>
 
 <br/>
