@@ -2,7 +2,7 @@
     <a href="#"><img width="60%" height="auto" src="https://user-images.githubusercontent.com/71427558/161381190-519e26ab-5f15-4e96-ac39-cceab055bee9.png"      height="175px"/></a>
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arkadiusz</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Arkadiusz</h1>
 <h3 align="center">I'm a passionate Mobile Developer from Poland.</h3>
 
 </br>
