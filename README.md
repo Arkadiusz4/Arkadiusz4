@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Weather App](https://github.com/Arkadiusz4/Weather-App)**.
+- 🔭 I’m currently working on **[Quiz App](https://github.com/Arkadiusz4/Quiz-App)**.
 
 - 🌱 I’m currently learning **Dart and Flutter**.
 
