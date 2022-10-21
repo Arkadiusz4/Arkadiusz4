@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Dart and Flutter**.
 
-- 👯 I’m looking for **a job as Trainee or Junior Flutter Developer**.
+- 👯 I’m looking for **a job as Junior Flutter Developer**.
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Arkadiusz4?tab=repositories)**
 
