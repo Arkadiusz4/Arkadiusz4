@@ -23,6 +23,10 @@
 
 - My website **[Github Pages](https://arkadiusz4.github.io)**
 
+- My Fork **[Fork](https://github.com/Arkadiusz4/IoT-For-Beginners)**
+
+- Papers with Code **[Papers with Code](https://cs.paperswithcode.com/paper/towards-a-secure-api-client-generator-for-iot)**
+
 </br>
 
 ## 🚀 Languages and Tools:
