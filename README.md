@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **[Quiz App](https://github.com/Arkadiusz4/QuizApp)**.
 
-- 🌱 I’m currently learning **Dart and Flutter**.
+- 🌱 I’m currently learning **Dart and Flutter and Python**.
 
 - 👯 I’m looking for **a job as Junior Flutter Developer**.
 
@@ -20,12 +20,6 @@
 - 📫 How to reach me **arkadiusz.mika4@gmail.com**.
 
 - ⚡ Fun fact **I love playing guitar.** 
-
-- My website **[Github Pages](https://arkadiusz4.github.io)**
-
-- My Fork **[Fork](https://github.com/Arkadiusz4/IoT-For-Beginners)**
-
-- Papers with Code **[Papers with Code](https://cs.paperswithcode.com/paper/towards-a-secure-api-client-generator-for-iot)**
 
 </br>
 
@@ -41,6 +35,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/731/731985.png" height="60px"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="60px"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" height="60px"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://www.flaticon.com/free-icon/python_5968350" height="60px"/> </a>
 </p>
 
 <br/>
