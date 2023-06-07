@@ -75,7 +75,7 @@
   <table>
       <thead>
       <tr>
-        <th colspan="2">Frameworks</th>
+        <th colspan="3">Frameworks/Libraries</th>
       </tr>
     </thead>
      <tr>
@@ -83,9 +83,12 @@
       <img height=60 src="https://img.icons8.com/color/144/flutter.png"/></td>
       <td align="center" width=110> 
       <img height=60 src="https://img.icons8.com/color/144/angularjs.png"/></td>
+      <td align="center" width=110> 
+      <img height=60 src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png"/></td>
       <tr align="center">
       <td align="center" width=110>Flutter</td>
       <td align="center" width=110>Angular</td>
+      <td align="center" width=110>Bloc</td>
      </tr>
    </table>
    
