@@ -84,7 +84,7 @@
       <td align="center" width=110> 
       <img height=60 src="https://img.icons8.com/color/144/angularjs.png"/></td>
       <td align="center" width=110> 
-      <img height=60 src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png"/></td>
+      <img height=60 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlmcU2axPoh85MgjK-9o61bnQg0dkh9nnRfZdkRSmH&s"/></td>
       <tr align="center">
       <td align="center" width=110>Flutter</td>
       <td align="center" width=110>Angular</td>
