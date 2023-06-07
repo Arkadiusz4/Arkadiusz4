@@ -25,19 +25,6 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
-    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png" height="60px"/> </a>
-    <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png" height="60px"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="60px"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png" height="60px"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" height="60px"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226770.png" height="60px"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/731/731985.png" height="60px"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="60px"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" height="60px"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://www.flaticon.com/free-icon/python_5968350" height="60px"/> </a>
-</p>
-
 <div align="center">
   <table>
     <thead>
@@ -130,79 +117,56 @@
      </thead>
      <tr>
       <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/></td>
+      <img height=60 src="https://img.icons8.com/color/144/git.png"/></td>
       <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/></td>
+      <img height=60 src="https://img.icons8.com/color/144/github--v1.png"/></td>
       <td align="center" width=110> 
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/></td>
+      <img height=60 src="https://img.icons8.com/color/144/gitlab.png"/></td>
       <td align="center" width=110> 
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg"/></td>
+      <img height=60 src="https://img.icons8.com/color/144/firebase.png"/></td>
       <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></td>
+      <img height=60 src="https://img.icons8.com/color/144/android-os.png"/></td>
       <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></td>
+      <img height=60 src="https://img.icons8.com/color/144/jenkins.png"/></td>
       <td align="center" width=110> 
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/></td>
+      <img height=60 src="https://img.icons8.com/dusk/128/postman-api.png"/></td>
      </tr>
      <tr>
-      <td align="center" width=110>WebPack</td>
-      <td align="center" width=110>Heroku</td>
-      <td align="center" width=110>Figma</td>
-      <td align="center" width=110>RSpec</td>
       <td align="center" width=110>Git</td>
       <td align="center" width=110>GitHub</td>
       <td align="center" width=110>GitLab</td>
+      <td align="center" width=110>Firebase</td>
+      <td align="center" width=110>Android SDK</td>
+      <td align="center" width=110>Jenkins</td>
+      <td align="center" width=110>Postman API</td>
      </tr>
      <tr>
-       <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/></td>
       <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/></td>
+      <img height=60 src="https://img.icons8.com/color/144/android-studio--v3.png"/></td>
       <td align="center" width=110>
       <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></td>
       <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/></td>
+      <img height=60 src="https://img.icons8.com/color/144/visual-studio--v2.png"/></td>
       <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/></td>
+      <img height=60 src="https://cdn.icon-icons.com/icons2/1381/PNG/512/clion_94128.png"/></td>
       <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/></td>
+      <img height=60 src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/pycharm-icon.svg"/></td>
       <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"/></td>
+      <img height=60 src="https://img.icons8.com/color/144/xcode.png"/></td>
+      <td align="center" width=110>
+      <img height=60 src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gradle_logo_icon_168143.png"/></td>
      </tr>
      <tr>
       <td align="center" width=110>Android Studio</td>
-      <td align="center" width=110>IntelliJ</td>
       <td align="center" width=110>VSCode</td>
       <td align="center" width=110>Visual Studio</td>
-      <td align="center" width=110>Vim</td>
-      <td align="center" width=110>Google Cloud</td>
-      <td align="center" width=110>CodePen</td>
-     </tr>
-     <tr>
-      <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/></td>
-      <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"/></td>
-      <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"/></td>
-      <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg"/></td>
-      <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/></td>
-      <td align="center" width=110>
-      <img width=60 src="https://user-images.githubusercontent.com/27622683/192119394-0284fdfc-3ad2-460c-8b57-5ed13a2cbfc0.png"/></td>
-      <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"/></td>
-     </tr>
-     <tr>
-      <td align="center" width=110>Docker</td>
-      <td align="center" width=110>ESLint</td>
+      <td align="center" width=110>CLion</td>
+      <td align="center" width=110>PyCharm</td>
+      <td align="center" width=110>XCode</td>
       <td align="center" width=110>Gradle</td>
-      <td align="center" width=110>Jenkins</td>
-      <td align="center" width=110>JetBrains</td>
-      <td align="center" width=110>T.D.D.</td>
-      <td align="center" width=110>Yarn</td></tr>
+     </tr>
   </table>
+    
   <table>
     <thead>
       <tr>
