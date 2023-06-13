@@ -216,7 +216,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Arkadiusz4/github-readme-activity-graph"><img alt="Arkadiusz Mika's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Arkadiusz4&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Arkadiusz4/github-readme-activity-graph"><img alt="Arkadiusz Mika's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Arkadiusz4&bg_color=1a1a1a&color=0040ff&line=1e00ff&point=7d7d7d&area=true&hide_border=true" /></a>
 
 <br/>
 <br/>
