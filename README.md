@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[TradeSmart](https://github.com/Arkadiusz4/TradeSmart)**.
+- 🔭 I’m currently working on **[LionTrade](https://github.com/Arkadiusz4/LionTrade)**.
 
 - 🌱 I’m currently learning **Dart and Flutter and Python**.
 
