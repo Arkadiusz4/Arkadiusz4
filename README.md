@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **arkadiusz.mika4@gmail.com**.
 
-- ⚡ Fun fact **I love playing guitar.** 
+- ⚡ Fun fact **I love playing guitar and dancing bachata**. 
 
 </br>
 
