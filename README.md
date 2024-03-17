@@ -1,19 +1,17 @@
 <p align="center">
-    <a href="#"><img width="60%" height="auto" src="https://user-images.githubusercontent.com/71427558/161381190-519e26ab-5f15-4e96-ac39-cceab055bee9.png"      height="175px"/></a>
+    <a href="#"><img width="60%" height="auto" src="https://github.com/Arkadiusz4/Arkadiusz4/assets/71427558/e4469c71-e1c7-4f6a-8482-fe850356e1f9"  height="175px"/></a>
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Arkadiusz</h1>
-<h3 align="center">I'm a passionate Mobile Developer from Poland.</h3>
-
-</br>
+<h3 align="center">I'm a passionate DevOps Engineer from Poland.</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[LionTrade](https://github.com/Arkadiusz4/LionTrade)**.
+- 🔭 I’m currently working on **[Meteor Maverick Game](https://github.com/Arkadiusz4/meteor-maverick-game)**.
 
-- 🌱 I’m currently learning **Dart and Flutter and Python**.
+- 🌱 I’m currently learning **Golang, PostgreSQL/SQL, Docker and CI/CD**.
 
-- 👯 I’m looking for **a job as Junior Flutter Developer**.
+- 👯 I’m looking for **a job as DevOps Engineer, Site Reliability Engineer or Backend Developer**.
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Arkadiusz4?tab=repositories)**
 
@@ -23,16 +21,23 @@
 
 </br>
 
+
+
 ## 🚀 Languages and Tools:
+
+![go-svgrepo-com]()
+
 
 <div align="center">
   <table>
     <thead>
       <tr>
-        <th colspan="7">Languages</th>
+        <th colspan="5">Languages & Frameworks</th>
       </tr>
     </thead>
     <tr>
+     <td align="center" width=110>
+     <img height=60 src="https://github.com/Arkadiusz4/Arkadiusz4/assets/71427558/00ad00ae-0373-4e3c-8f98-4347cdda470e"/></td>
      <td align="center" width=110>
      <img height=60 src="https://img.icons8.com/color/144/dart.png"/></td>
      <td align="center" width=110>
@@ -41,56 +46,36 @@
      <img height=60 src="https://img.icons8.com/color/144/java-coffee-cup-logo--v1.png"/></td>
      <td align="center" width=110>
      <img height=60 src="https://img.icons8.com/color/144/kotlin.png"/></td>
-     <td align="center" width=110>
-     <img height=60 src="https://img.icons8.com/color/144/c-plus-plus-logo.png"/></td>
-     <td align="center" width=110>
-     <img height=60 src="https://img.icons8.com/color/144/c-programming.png"/></td>
-     <td align="center" width=110>
-     <img height=60 src="https://img.icons8.com/color/144/typescript.png"/></td>
     </tr>
     <tr>
+     <td align="center" width=110>Go</td>
      <td align="center" width=110>Dart</td>
      <td align="center" width=110>Python</td>
      <td align="center" width=110>Java</td>
      <td align="center" width=110>Kotlin</td>
-     <td align="center" width=110>C++</td>
+    </tr>
+    <tr>
+     <td align="center" width=110>
+     <img height=60 src="https://img.icons8.com/color/144/flutter.png"/></td>
+     <td align="center" width=110>
+     <img height=60 src="https://github.com/Arkadiusz4/meteor-maverick-game/assets/71427558/deb2bede-fc20-49f3-942c-ed796e461cbc"/></td>
+     <td align="center" width=110>
+     <img height=60 src="https://github.com/Arkadiusz4/meteor-maverick-game/assets/71427558/e4635d85-72c8-4fff-a40b-98432fcdccea"/></td>
+     <td align="center" width=110>
+     <img height=60 src="https://img.icons8.com/color/144/c-programming.png"/></td>
+     <td align="center" width=110>
+     <img height=60 src="https://img.icons8.com/color/144/c-plus-plus-logo.png"/></td>
+    </tr>
+    <tr>
+     <td align="center" width=110>Flutter</td>
+     <td align="center" width=110>PostgreSQL</td>
+     <td align="center" width=110>SQL</td>
      <td align="center" width=110>C</td>
-     <td align="center" width=110>TypeScript</td>
+     <td align="center" width=110>C++</td>
     </tr>
-    <tr>
-     <td align="center" width=110>
-     <img height=60 src="https://img.icons8.com/?size=200&id=81831&format=png"/></td>
-     <td align="center" width=110>
-     <img height=60 src="https://img.icons8.com/?size=200&id=21831&format=png"/></td>
-     <td align="center" width=110>
-     <img height=60 src="https://img.icons8.com/color/144/bash.png"/></td>
-    </tr>
-    <tr>
-     <td align="center" width=110>XML</td>
-     <td align="center" width=110>Markdown</td>
-     <td align="center" width=110>Bash</td>
-    </tr>
-  </table>
+  </table> 
 
-  <table>
-      <thead>
-      <tr>
-        <th colspan="3">Frameworks/Libraries</th>
-      </tr>
-    </thead>
-     <tr>
-      <td align="center" width=110>
-      <img height=60 src="https://img.icons8.com/color/144/flutter.png"/></td>
-      <td align="center" width=110> 
-      <img height=60 src="https://img.icons8.com/color/144/angularjs.png"/></td>
-      <td align="center" width=110> 
-      <img height=60 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlmcU2axPoh85MgjK-9o61bnQg0dkh9nnRfZdkRSmH&s"/></td>
-      <tr align="center">
-      <td align="center" width=110>Flutter</td>
-      <td align="center" width=110>Angular</td>
-      <td align="center" width=110>Bloc</td>
-     </tr>
-   </table>
+
    
    <table>
       <thead>
