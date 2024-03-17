@@ -25,9 +25,6 @@
 
 ## 🚀 Languages and Tools:
 
-![go-svgrepo-com]()
-
-
 <div align="center">
   <table>
     <thead>
