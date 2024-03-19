@@ -29,7 +29,7 @@
   <table>
     <thead>
       <tr>
-        <th colspan="5">Languages & Frameworks</th>
+        <th colspan="6">Languages & Frameworks</th>
       </tr>
     </thead>
     <tr>
@@ -43,13 +43,16 @@
      <img height=60 src="https://img.icons8.com/color/144/java-coffee-cup-logo--v1.png"/></td>
      <td align="center" width=110>
      <img height=60 src="https://img.icons8.com/color/144/kotlin.png"/></td>
-    </tr>
+     <td align="center" width=110>
+     <img height=60 src="https://github.com/Arkadiusz4/Arkadiusz4/assets/71427558/7fd6fe22-e774-4f56-9038-43cbce9d5b48"/></td>
+    </tr>      
     <tr>
      <td align="center" width=110>Go</td>
      <td align="center" width=110>Dart</td>
      <td align="center" width=110>Python</td>
      <td align="center" width=110>Java</td>
      <td align="center" width=110>Kotlin</td>
+     <td align="center" width=110>C#</td>
     </tr>
     <tr>
      <td align="center" width=110>
@@ -62,6 +65,8 @@
      <img height=60 src="https://img.icons8.com/color/144/c-programming.png"/></td>
      <td align="center" width=110>
      <img height=60 src="https://img.icons8.com/color/144/c-plus-plus-logo.png"/></td>
+     <td align="center" width=110>
+     <img height=60 src="https://github.com/Arkadiusz4/Arkadiusz4/assets/71427558/4c6482f0-30a6-4fce-adb2-587c9137275c"/></td>
     </tr>
     <tr>
      <td align="center" width=110>Flutter</td>
@@ -69,10 +74,9 @@
      <td align="center" width=110>SQL</td>
      <td align="center" width=110>C</td>
      <td align="center" width=110>C++</td>
+     <td align="center" width=110>.Net</td>
     </tr>
   </table> 
-
-
    
    <table>
       <thead>
@@ -97,7 +101,7 @@
    <table>
      <thead>
       <tr>
-       <th colspan="7">Tools</th>
+       <th colspan="5">Tools</th>
       </tr>
      </thead>
      <tr>
@@ -111,10 +115,6 @@
       <img height=60 src="https://img.icons8.com/color/144/firebase.png"/></td>
       <td align="center" width=110>
       <img height=60 src="https://img.icons8.com/color/144/android-os.png"/></td>
-      <td align="center" width=110>
-      <img height=60 src="https://img.icons8.com/color/144/jenkins.png"/></td>
-      <td align="center" width=110> 
-      <img height=60 src="https://img.icons8.com/dusk/128/postman-api.png"/></td>
      </tr>
      <tr>
       <td align="center" width=110>Git</td>
@@ -122,32 +122,24 @@
       <td align="center" width=110>GitLab</td>
       <td align="center" width=110>Firebase</td>
       <td align="center" width=110>Android SDK</td>
-      <td align="center" width=110>Jenkins</td>
-      <td align="center" width=110>Postman API</td>
      </tr>
      <tr>
       <td align="center" width=110>
-      <img height=60 src="https://img.icons8.com/color/144/android-studio--v3.png"/></td>
+      <img height=60 src="https://img.icons8.com/color/144/jenkins.png"/></td>
       <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></td>
+      <img height=60 src="https://github.com/Arkadiusz4/Arkadiusz4/assets/71427558/85cf04b8-7a5d-4df0-8bb8-0b66a900b0f1"/></td>
       <td align="center" width=110>
-      <img height=60 src="https://img.icons8.com/color/144/visual-studio--v2.png"/></td>
+      <img height=60 src="https://github.com/Arkadiusz4/Arkadiusz4/assets/71427558/e775196f-b34c-4a67-acf0-1fbf1512b587"/></td>
       <td align="center" width=110>
-      <img height=60 src="https://cdn.icon-icons.com/icons2/1381/PNG/512/clion_94128.png"/></td>
-      <td align="center" width=110>
-      <img height=60 src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/pycharm-icon.svg"/></td>
-      <td align="center" width=110>
-      <img height=60 src="https://img.icons8.com/color/144/xcode.png"/></td>
+      <img height=60 src="https://github.com/Arkadiusz4/Arkadiusz4/assets/71427558/19744987-3215-40d0-a838-66f6ca39e0f3"/></td>
       <td align="center" width=110>
       <img height=60 src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gradle_logo_icon_168143.png"/></td>
      </tr>
      <tr>
-      <td align="center" width=110>Android Studio</td>
-      <td align="center" width=110>VSCode</td>
-      <td align="center" width=110>Visual Studio</td>
-      <td align="center" width=110>CLion</td>
-      <td align="center" width=110>PyCharm</td>
-      <td align="center" width=110>XCode</td>
+      <td align="center" width=110>Jenkins</td>
+      <td align="center" width=110>GitHub Actions</td>
+      <td align="center" width=110>Docker</td>
+      <td align="center" width=110>Kubernetes</td>
       <td align="center" width=110>Gradle</td>
      </tr>
   </table>
